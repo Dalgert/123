@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    background: url(img/fon1.jpg) no-repeat center top / cover;
+    background: url(img/Fon1.jpg) no-repeat center top / cover;
     height: 700px;
     padding-bottom: 0px;
 }
@@ -189,7 +189,7 @@ color:#000;
 .photos__radio:checked+.photos__item+.photos__view {transform: scale(.93);}
 
 #third {
-    background: url(img/fon2.jpg) no-repeat center top / cover;
+    background: url(img/Fon2.jpg) no-repeat center top / cover;
     height: 700px;
     color:#000;
 }
